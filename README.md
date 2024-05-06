@@ -33,8 +33,8 @@ You'll need access to the OpenAI API. If you haven't already, sign up for an API
 
 1. **Step 1:** Obtain your OpenAI API key.
 2. **Step 2:** Set your API key as an environment variable.
+3. **Step 3:** Set Temperature.
+4. **Step 4:** Create a prompt.
 
-### Set Temperature
-
-Define the temperature parameter for your LLM. This value can range from 0 to 1.0.
-Higher values lead to more creative outputs and a greater chance of "hallucination."
+### Define the temperature parameter for your LLM. This value can range from 0 to 1.0.
+### Higher values lead to more creative outputs and a greater chance of "hallucination."
