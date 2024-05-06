@@ -38,3 +38,6 @@ You'll need access to the OpenAI API. If you haven't already, sign up for an API
 
 ### Define the temperature parameter for your LLM. This value can range from 0 to 1.0.
 ### Higher values lead to more creative outputs and a greater chance of "hallucination."
+
+### Challenge
+ Get openai.RateLimitError “error 429 quota exceeded” even my first api request.
