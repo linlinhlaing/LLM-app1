@@ -1,6 +1,11 @@
 # LLM-app1
 Create a simple AI powered application using LLMs and LangChain
 
+# LLM App1 OverView
+
+![Alt text](https://github.com/linlinhlaing/LLM-app1/blob/main/overView.png)
+
+
 # LLM App1 Setup
 
 To get started with your LLM (Large Language Model) app, ensure you have the necessary packages installed:
